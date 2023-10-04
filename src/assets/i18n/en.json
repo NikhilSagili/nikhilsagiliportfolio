@@ -1,0 +1,55 @@
+{
+    "Header.Item1": "About me",
+    "Header.Item2": "Experience",
+    "Header.Item3": "Contact",
+    "Header.cvBtn": "Resume",
+    "Header.cvName": "Nikhil_Reddy_Resume.pdf",
+    "Banner.Pretitle": "Hello! My name is",
+    "Banner.Description": "",
+    "Banner.ActionBtn": "Get in touch",
+    "AboutMe.Title": "About me",
+    "AboutMe.Paragraphs": [
+        "In my <span class='underline'>3 years as a dedicated developer</span>, my commitment to continuous improvement has been unwavering. My expertise extends across a spectrum of essential development practices, including crafting meticulous unit tests, orchestrating seamless continuous integration processes, and adeptly fulfilling the responsibilities of a versatile full stack developer",
+        "Some of the technologies that I have trained and worked on include (but are not limited to):"
+    ],
+    "Experience.Title": "Experience",
+    "Experience.Company": "FieldAssist",
+    "Experience.Jobs": [
+        {
+            "Title": "Technical Specialist",
+            "Date": "January 2023 - Present",
+            "Description": [
+                "Designed and implemented changes to software architecture, including breaking down monolithic applications into smaller microservices.",
+                "Successfully orchestrated the migration from Azure Web App Services to Azure Kubernetes resulting in cost reduction, ensuring scalability, efficient resource utilization and heightened controllability.",
+                "Attained a 99.5% uptime rate alongside an impressive average success rate of 99.98% for the application, guaranteeing seamless service continuity for valued clients.",
+                "Designed and managed Azure pipelines for CI/CD, streamlining the software development lifecycle.",
+                "Collaborated effectively with cross-functional teams, facilitating open communication and efficient project delivery."
+            ]
+        },
+        
+        {
+            "Title": "Software developer",
+            "Date": "December 2020 - December 2022",
+            "Description": [
+                "Spearheaded the migration initiative to upgrade a legacy .NET 2.1 application to the cutting-edge .NET 6 framework, guaranteeing compatibility and harnessing the benefits of enhanced features and performance optimizations",
+                "Played a key role in addressing and resolving production bugs to ensure the smooth operation of critical systems.",
+                "Engaged in sprint planning, backlog grooming, and daily stand-up meetings, actively sharing progress updates and identifying any impediments.",
+                "Achieved successful implementation of significant bug fixes, comprehensive logging and a restructured code for the TADA module, resulting in a reduced client churn rate and streamlined onboarding of new clients.",
+                "Developed a time-triggered and queue-triggered web jobs to meet various business objectives.",
+                "Enhanced API response time, reducing it from 900ms to 400ms, effectively resolving the day start issue occurring between 9:00 am and 10:00 am"
+            ]
+        },
+        {
+            "Title": "Intern",
+            "Date": "June 2020 - December 2020",
+            "Description": [
+                "Accomplished the successful integration of QuickBooks payment functionality into the application, granting finance teams real-time access to billing data, thereby streamlining financial process.",
+                "Developed and implemented angular based web pages."
+            ]
+        }
+    ],
+    "Contact.Pretitle": "What’s Next",
+    "Contact.Title": "Get in touch!",
+    "Contact.Content": "I will be happy to receive your contact if you want to talk about new opportunities. Write me, and I will reply as soon as I see your message. Simple one-page design that features a profile letter with basic information about a person.",
+    "Contact.Btn": "Say Hello"
+}
